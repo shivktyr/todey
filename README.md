@@ -1,6 +1,6 @@
-# todey
+# Todey
 
-A new Flutter project.
+A simple and beautiful to-do App to demonstrate use of Provider Package
 
 ## Getting Started
 
